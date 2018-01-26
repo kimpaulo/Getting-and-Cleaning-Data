@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+# Getting and Cleaning Data
 
 # Overview
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for statistical analysis. A full description of the data used in this project can be found here http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
