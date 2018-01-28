@@ -38,3 +38,28 @@ Merge data subset with the activityType table to inlude the descriptive activity
 Use gsub function for pattern replacement to clean up the data labels.
 
 # Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# Variables in the Final Data Set
+
+1. activityId
+2. subjectId
+3. timeBodyAccMagnitudeMean
+4. timeBodyAccMagnitudeStdDev
+5. timeGravityAccMagnitudeMean
+6. timeGravityAccMagnitudeStdDev
+7. timeBodyAccJerkMagnitudeMean
+8. timeBodyAccJerkMagnitudeStdDev
+9. timeBodyGyroMagnitudeMean
+10. timeBodyGyroMagnitudeStdDev
+11. timeBodyGyroJerkMagnitudeMean
+12. timeBodyGyroJerkMagnitudeStdDev
+13. freqBodyAccMagnitudeMean
+14. freqBodyAccMagnitudeStdDev
+15. freqBodyAccJerkMagnitudeMean
+16. freqBodyAccJerkMagnitudeStdDev
+17. freqBodyGyroMagnitudeMean
+18. freqBodyGyroMagnitudeStdDev
+19. freqBodyGyroJerkMagnitudeMean
+20. freqBodyGyroJerkMagnitudeStdDev
+21. activityType
+
